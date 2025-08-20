@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-<!--
-**qfanrex-suzi/qfanrex-suzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a social psychology Phd student at Tulane University.
+- 😄 Pronouns: He/Him/His
+- 🌱 I’m interested in video games, anime, and running.
+- ⚡ Fun fact: I need a great environment for high productivity. In order to achieve this, I once spent 2 months designing my office till I felt satisfied.
+- 📫 How to reach me: qfan3@tulane.edu
+<!--**qfanrex-suzi/qfanrex-suzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
